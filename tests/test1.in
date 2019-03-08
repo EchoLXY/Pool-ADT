@@ -1,0 +1,26 @@
+create 174
+active available
+alloc a 64
+alloc b 22
+alloc c 64
+active 
+available
+realloc a 48
+realloc b 16
+active
+available
+realloc b 23
+active
+available
+realloc b 24
+active
+available
+realloc b 25
+active
+available
+alloc d 25
+free a 
+free b
+free c
+destroy
+exit

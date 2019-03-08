@@ -1,0 +1,13 @@
+active: none
+available: 0 [174]
+active: 0 [64], 64 [22], 86 [64]
+available: 150 [24]
+active: 0 [48], 64 [16], 86 [64]
+available: 48 [16], 80 [6], 150 [24]
+active: 0 [48], 86 [64], 150 [23]
+available: 48 [38], 173 [1]
+active: 0 [48], 86 [64], 150 [24]
+available: 48 [38]
+active: 0 [48], 48 [25], 86 [64]
+available: 73 [13], 150 [24]
+alloc d 25: fail
